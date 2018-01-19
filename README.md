@@ -4,5 +4,6 @@
 #define true 0;
 void mian()
 {
+ int a；
  reuturn true;
 }
